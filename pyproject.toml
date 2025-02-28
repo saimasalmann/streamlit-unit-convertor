@@ -1,0 +1,10 @@
+
+[project]
+name = "uv-unit-convertor"
+version = "0.1.0"
+description = "A unit converter app using Streamlit"
+readme = "README.md"
+requires-python = ">=3.8"  # Python 3.13 is too new and not stable yet!
+dependencies = [
+    "streamlit"
+]
